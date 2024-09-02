@@ -1,10 +1,7 @@
 
-<<<<<<< HEAD
 ![Logo](logo.png)
 
 
-=======
->>>>>>> 97a4ccd73d500ba2467f19750fbc9805b9814cd7
 # REST-interface
 
 REST is a jupyter interface that helps the user to assess the application of rules-based method, regarding entities of interest highlighted in a corpus. 
@@ -13,7 +10,6 @@ In information extraction tasks, both machine learning and rules are available m
 
 Using highlights from the BRAT annotation tool, REST is part of an approach to evaluate a rules-based system quickly.
 
-<<<<<<< HEAD
 
 
 
@@ -23,8 +19,8 @@ Using highlights from the BRAT annotation tool, REST is part of an approach to e
 
 An explanation of REST-interface is available here :
 [Video presentation](https://vimeo.com/1005460293?share=copy)
-=======
->>>>>>> 97a4ccd73d500ba2467f19750fbc9805b9814cd7
+
+
 ## Getting started
 
 ### 1. Clone the Repository
@@ -47,13 +43,6 @@ python -m spacy download fr_core_news_sm
 ### Notes: 
 - Spacy model download is absolutly necessary for the current version of REST. More models for other languages will be integrated in later updates. 
 - If you encounter any issues with dependencies, check that your environment matches the versions specified in requirements.txt.
-<<<<<<< HEAD
-=======
-
-
-
-
->>>>>>> 97a4ccd73d500ba2467f19750fbc9805b9814cd7
 ## Acknowledgements
 
 I would like to thank Emmanuelle Kempf and Xavier Tannier for supervising this project. 
