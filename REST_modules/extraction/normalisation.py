@@ -6,12 +6,12 @@ import pandas as pd
 from nltk.corpus import stopwords
 import spacy
 from nltk.stem.snowball import SnowballStemmer
-from googletrans import Translator
+#from googletrans import Translator
 from Levenshtein import distance as lev
 import os
 
 stemmer = SnowballStemmer("french")
-translator = Translator()
+#translator = Translator()
 sp=spacy.load("fr_core_news_sm")
 
 
